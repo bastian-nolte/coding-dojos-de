@@ -40,7 +40,7 @@ fizzbuzz
 ```
 
 ## Dieses Kata im Playground ausführen
-Entweder direkt Ausführen im Kotlin-Playground: [https://play.kotlinlang.org/embed?short=W6Dk8f43J]
+Dieses Kata kann direkt im [Kotlin-Playground ausgeführt](https://play.kotlinlang.org/embed?short=W6Dk8f43J) werden.
 
 ## Dieses Kata auf eigenem Computer ausführen
 
