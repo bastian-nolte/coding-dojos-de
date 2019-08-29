@@ -64,4 +64,8 @@ Dieser Code entstand in [testgetriebener Entwicklung nach Kent Beck](https://amz
  ./mvnw test
  ```
 
-_Dieses Dokument enthält einen Affiliate Link auf ein Buch bei Amazon._
+#### Author und Hinweise
+Der Code ist in einem Coding Dojo der CSS Versicherung entstanden.<br/>
+Diesen Artikel hat [Bastian Nolte](https://bastian-nolte.name) geschrieben.
+
+_Das Dokument enthält einen Affiliate Link auf ein Buch bei Amazon._
