@@ -30,10 +30,10 @@ class Fizzbuzz {
 
         /**
          * Liefert je nach eingegebener Zahl unterschiedliche Ergebnisse nach folgenden Regeln:
-         * - Das Wort «fizzbuzz», wenn die Zahl durch 15 teilbar ist.
-         * - Das Wort «buzz», wenn die Zahl durch 5 teilbar ist.
-         * - Das Wort «fizz», wenn die Zahl durch 3 teilbar ist.
-         * - In allen anderen Fällen die übergebene Zahl als String.
+         * - Das Wort «fizzbuzz», wenn die Zahl durch 15 teilbar ist oder
+         * - das Wort «buzz», wenn die Zahl durch 5 teilbar ist oder
+         * - das Wort «fizz», wenn die Zahl durch 3 teilbar ist,
+         * - ansonsten die übergebene Zahl als String.
          *
          * @param zahl Die Zahl, auf die die Regeln angewendet werden sollen.
          * @return Der String, wie oben definiert.
