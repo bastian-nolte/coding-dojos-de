@@ -3,6 +3,9 @@
 ## Einleitung
 
 Dieser Kotlin-Code ist das Ergebnis der Code Dojo für die Kata [FizzBuzz](http://codingdojo.org/kata/FizzBuzz/).
+
+Direkt Ausführen im Kotlin-Playground: [https://play.kotlinlang.org/embed?short=W6Dk8f43J]
+
 _Kurz gesagt, sollte folgendes Problem gelöst werden:_
 
 Gegeben ist 
@@ -33,18 +36,22 @@ fizz
 fizzbuzz
 ```
 
-## Dieses Kata ausführen
-Code klonen mit
+## Dieses Kata im Playground ausführen
+Entweder direkt Ausführen im Kotlin-Playground: [https://play.kotlinlang.org/embed?short=W6Dk8f43J]
+
+## Dieses Kata auf eigenem Computer ausführen
+
+### Code klonen
 ```
 git clone https://github.com/bastian-nolte/coding-dojos-de.git
 ```
 
-## Den Code übersetzen und ausführen
+### Den Code übersetzen und ausführen
 ```
  ./mvnw compile exec:java
 ```
 
-## Die Tests ausführen
+### Die Tests ausführen
 Dieser Code entstand in [testgetriebener Entwicklung nach Kent Beck](https://amzn.to/2zwI4Fu)*. Die dabei entstandenen Tests können wie folgt ausgeführt werden.
 ```
  ./mvnw test
