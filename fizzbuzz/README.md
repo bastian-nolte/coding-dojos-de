@@ -6,7 +6,7 @@ Dieser Kotlin-Code ist das Ergebnis der Code Dojo für die Kata [FizzBuzz](http:
 
 - Die [Tests](https://github.com/bastian-nolte/coding-dojos-de/blob/master/fizzbuzz/src/test/kotlin/FizzbuzzTest.kt) der Kata.
 - Der [Kotin-Code](https://github.com/bastian-nolte/coding-dojos-de/blob/master/fizzbuzz/src/main/kotlin/Fizzbuzz.kt) als Ergebnis der Kata.
-- Den Code direkt im Kotlin-Playground [ausführen](https://play.kotlinlang.org/embed?short=W6Dk8f43J).
+- Den Code direkt im Kotlin-Playground [ausführen](https://pl.kotl.in/SeXqOZBXQ).
 
 ## Beschreibung der Kata
 _Kurz gesagt, sollte folgendes Problem gelöst werden:_
@@ -40,7 +40,7 @@ fizzbuzz
 ```
 
 ## Dieses Kata im Playground ausführen
-Dieses Kata kann direkt im [Kotlin-Playground ausgeführt](https://play.kotlinlang.org/embed?short=W6Dk8f43J) werden.
+Dieses Kata kann direkt im [Kotlin-Playground ausgeführt](https://pl.kotl.in/SeXqOZBXQ) werden.
 
 ## Dieses Kata auf eigenem Computer ausführen
 
@@ -55,9 +55,9 @@ git clone https://github.com/bastian-nolte/coding-dojos-de.git
 ```
 
 ### Die Tests ausführen
-Dieser Code entstand in [testgetriebener Entwicklung nach Kent Beck](https://amzn.to/2zwI4Fu)*. Die dabei entstandenen Tests können wie folgt ausgeführt werden.
+Dieser Code entstand in [testgetriebener Entwicklung nach Kent Beck](https://amzn.to/2zwI4Fu). Die dabei entstandenen Tests können wie folgt ausgeführt werden.
 ```
  ./mvnw test
  ```
 
-_*) Dieser Link ist ein Affiliate Link auf die Amazon Web-Plattform._
+_Dieses Dokument enthält einen Affiliate Link auf ein Buch bei Amazon._
