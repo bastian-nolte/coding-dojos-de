@@ -1,8 +1,14 @@
 # FizzBuzz Coding Dojo
 
-## Einleitung
+## Einleitung
 
 Dieser Kotlin-Code ist das Ergebnis der Code Dojo für die Kata [FizzBuzz](http://codingdojo.org/kata/FizzBuzz/).
+
+- Die [Tests](https://github.com/bastian-nolte/coding-dojos-de/blob/master/fizzbuzz/src/test/kotlin/FizzbuzzTest.kt) der Kata.
+- Der [Kotin-Code](https://github.com/bastian-nolte/coding-dojos-de/blob/master/fizzbuzz/src/main/kotlin/Fizzbuzz.kt) als Ergebnis der Kata.
+- Den Code direkt im Kotlin-Playground [ausführen](https://play.kotlinlang.org/embed?short=W6Dk8f43J).
+
+## Beschreibung der Kata
 _Kurz gesagt, sollte folgendes Problem gelöst werden:_
 
 Gegeben ist 
@@ -26,26 +32,32 @@ fizz
 8
 fizz
 buzz
-1
-bizz
-12
+11
+fizz
 13
+14
 fizzbuzz
 ```
 
-## Dieses Kata ausführen
-Code klonen mit
+## Dieses Kata im Playground ausführen
+Dieses Kata kann direkt im [Kotlin-Playground ausgeführt](https://play.kotlinlang.org/embed?short=W6Dk8f43J) werden.
+
+## Dieses Kata auf eigenem Computer ausführen
+
+### Code klonen
 ```
 git clone https://github.com/bastian-nolte/coding-dojos-de.git
 ```
 
-## Den Code übersetzen und ausführen
+### Den Code übersetzen und ausführen
 ```
  ./mvnw compile exec:java
 ```
 
-## Die Tests ausführen
-Dieser Code entstand in testgetriebener Entwicklung. Die dabei entstandenen Tests können wie folgt ausgeführt werden.
+### Die Tests ausführen
+Dieser Code entstand in [testgetriebener Entwicklung nach Kent Beck](https://amzn.to/2zwI4Fu)*. Die dabei entstandenen Tests können wie folgt ausgeführt werden.
 ```
  ./mvnw test
  ```
+
+_*) Dieser Link ist ein Affiliate Link auf die Amazon Web-Plattform._
