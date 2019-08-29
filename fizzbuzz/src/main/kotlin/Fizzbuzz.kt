@@ -1,4 +1,4 @@
-package ch.css.mob0801
+package ninja.greenlemon.codedojo.fizzbuzz
 /**
  * Gibt eine Liste von Strings gemäss [Fizzbuzz.fizzbuzz] auf der Konsole aus.
  * Grundlage der Idee ist  @see http://codingdojo.org/kata/FizzBuzz/.

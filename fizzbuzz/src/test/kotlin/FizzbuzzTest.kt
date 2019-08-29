@@ -1,4 +1,4 @@
-package ch.css.mob0801
+package ninja.greenlemon.codedojo.fizzbuzz
 
 import org.junit.jupiter.api.Assertions.assertEquals
 import org.junit.jupiter.api.DisplayName
