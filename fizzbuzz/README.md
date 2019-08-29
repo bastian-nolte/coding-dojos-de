@@ -45,7 +45,9 @@ git clone https://github.com/bastian-nolte/coding-dojos-de.git
 ```
 
 ## Die Tests ausführen
-Dieser Code entstand in (testgetriebener Entwicklung nach Kent Beck)[https://amzn.to/2zwI4Fu]. Die dabei entstandenen Tests können wie folgt ausgeführt werden.
+Dieser Code entstand in [testgetriebener Entwicklung nach Kent Beck](https://amzn.to/2zwI4Fu)*. Die dabei entstandenen Tests können wie folgt ausgeführt werden.
 ```
  ./mvnw test
  ```
+
+_*) Dieser Link ist ein Affiliate Link auf die Amazon Web-Plattform._
