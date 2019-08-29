@@ -1,6 +1,6 @@
 # FizzBuzz Coding Dojo
 
-## Einleitung
+## Einleitung
 
 Dieser Kotlin-Code ist das Ergebnis der Code Dojo für die Kata [FizzBuzz](http://codingdojo.org/kata/FizzBuzz/).
 _Kurz gesagt, sollte folgendes Problem gelöst werden:_
