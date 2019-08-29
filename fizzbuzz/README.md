@@ -65,7 +65,8 @@ Dieser Code entstand in [testgetriebener Entwicklung nach Kent Beck](https://amz
  ```
 
 #### Author und Hinweise
-Der Code ist in einem Coding Dojo der CSS Versicherung entstanden.<br/>
-Diesen Artikel hat [Bastian Nolte](https://bastian-nolte.name) geschrieben.
+Dieser Artikel wurde von [Bastian Nolte](https://bastian-nolte.name) geschrieben.<br/>
+Der Code ist in einem Coding Dojo der [CSS Versicherung](https://www.css.ch) entstanden.<br/>
+Du suchst einen Job in der IT? Vielleicht wirst Du auf der [Jobseite](https://jobs.css.ch) der CSS Versicherung fündig.
 
 _Das Dokument enthält einen Affiliate Link auf ein Buch bei Amazon._
