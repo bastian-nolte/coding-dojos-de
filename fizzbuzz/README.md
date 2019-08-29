@@ -4,9 +4,9 @@
 
 Dieser Kotlin-Code ist das Ergebnis der Code Dojo für die Kata [FizzBuzz](http://codingdojo.org/kata/FizzBuzz/).
 
-Die Tests der Kata: https://github.com/bastian-nolte/coding-dojos-de/blob/master/fizzbuzz/src/test/kotlin/FizzbuzzTest.kt
-Der Kotin-Code als Ergebnis der Kata: https://github.com/bastian-nolte/coding-dojos-de/blob/master/fizzbuzz/src/main/kotlin/Fizzbuzz.kt
-Code direkt im Kotlin-Playground ausführen: https://play.kotlinlang.org/embed?short=W6Dk8f43J
+- Die [Tests](https://github.com/bastian-nolte/coding-dojos-de/blob/master/fizzbuzz/src/test/kotlin/FizzbuzzTest.kt) der Kata.
+- Der [Kotin-Code](https://github.com/bastian-nolte/coding-dojos-de/blob/master/fizzbuzz/src/main/kotlin/Fizzbuzz.kt) als Ergebnis der Kata.
+- Den Code direkt im Kotlin-Playground [ausführen](https://play.kotlinlang.org/embed?short=W6Dk8f43J).
 
 ## Beschreibung der Kata
 _Kurz gesagt, sollte folgendes Problem gelöst werden:_
