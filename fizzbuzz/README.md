@@ -46,7 +46,7 @@ Dieses Kata kann direkt im [Kotlin-Playground ausgeführt](https://pl.kotl.in/Se
 
 ### Code klonen
 ```
-git clone https://github.com/bastian-nolte/coding-dojos-de.git
+git clone https://github.com/bastian-nolte/coding-dojos-de.git && cd coding-dojos-de/fizzbuzz
 ```
 
 ### Den Code übersetzen und ausführen
