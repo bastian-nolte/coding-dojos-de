@@ -60,4 +60,4 @@ Dieser Code entstand in [testgetriebener Entwicklung nach Kent Beck](https://amz
  ./mvnw test
  ```
 
-Dieses Dokument enthält einen Affiliate Link auf ein Buch bei Amazon._
+_Dieses Dokument enthält einen Affiliate Link auf ein Buch bei Amazon._
