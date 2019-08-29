@@ -1,4 +1,5 @@
 package ninja.greenlemon.codedojo.fizzbuzz
+
 /**
  * Gibt eine Liste von Strings gemäss [Fizzbuzz.fizzbuzz] auf der Konsole aus.
  * Grundlage der Idee ist  @see http://codingdojo.org/kata/FizzBuzz/.
@@ -11,7 +12,7 @@ package ninja.greenlemon.codedojo.fizzbuzz
  * @param arguments Optionaler Parameter, der vorgibt, bis zu welcher Zahl die Strings ausgegeben werden sollen.
  */
 fun main(arguments: Array<String>) {
-    Fizzbuzz.fizzbuzzUpTo(arguments.getOrNull(0)?.toInt()).map { println(it) }
+    Fizzbuzz.fizzbuzzUpTo(arguments.getOrNull(0)?.toIntOrNull()).map { println(it) }
 }
 
 class Fizzbuzz {
