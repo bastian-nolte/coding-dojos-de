@@ -6,6 +6,7 @@ Dieser Kotlin-Code ist das Ergebnis der Code Dojo für die Kata [FizzBuzz](http:
 
 Direkt Ausführen im Kotlin-Playground: [https://play.kotlinlang.org/embed?short=W6Dk8f43J]
 
+## Beschreibung der Kata
 _Kurz gesagt, sollte folgendes Problem gelöst werden:_
 
 Gegeben ist 
