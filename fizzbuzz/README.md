@@ -44,6 +44,10 @@ Dieses Kata kann direkt im [Kotlin-Playground ausgeführt](https://pl.kotl.in/Se
 
 ## Dieses Kata auf eigenem Computer ausführen
 
+### Voraussetzungen
+- [Ein installiertes Java Development Kit (JDK)](https://www.oracle.com/technetwork/java/javase/downloads/index.html)
+- [Ein installiertes Kotlin](https://kotlinlang.org/docs/tutorials/command-line.html)
+
 ### Code klonen
 ```
 git clone https://github.com/bastian-nolte/coding-dojos-de.git && cd coding-dojos-de/fizzbuzz
