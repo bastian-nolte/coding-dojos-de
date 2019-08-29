@@ -26,10 +26,10 @@ fizz
 8
 fizz
 buzz
-1
-bizz
-12
+11
+fizz
 13
+14
 fizzbuzz
 ```
 
