@@ -2,6 +2,7 @@
 
 ## FizzBuzz
 ##### Abstract
+Gegeben ist eine Folge natürlicher Zahlen bis 100.<br/>
 Ausgegeben werden soll eine Liste von Werten, die folgender Bildungsvorschrift entsprechen:
 - Der String «fizzbuzz», wenn das Glied der Folge durch 15 teilbar ist oder
 - der String «buzz», wenn das Glied der Folge durch 5 teilbar ist oder
