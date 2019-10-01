@@ -44,9 +44,13 @@ Dieses Kata kann direkt im [Kotlin-Playground ausgeführt](https://pl.kotl.in/Se
 
 ## Dieses Kata auf eigenem Computer ausführen
 
+### Voraussetzungen
+- [Ein installiertes Java Development Kit (JDK)](https://www.oracle.com/technetwork/java/javase/downloads/index.html)
+- [Ein installiertes Kotlin](https://kotlinlang.org/docs/tutorials/command-line.html)
+
 ### Code klonen
 ```
-git clone https://github.com/bastian-nolte/coding-dojos-de.git
+git clone https://github.com/bastian-nolte/coding-dojos-de.git && cd coding-dojos-de/fizzbuzz
 ```
 
 ### Den Code übersetzen und ausführen
@@ -60,4 +64,8 @@ Dieser Code entstand in [testgetriebener Entwicklung nach Kent Beck](https://amz
  ./mvnw test
  ```
 
-_Dieses Dokument enthält einen Affiliate Link auf ein Buch bei Amazon._
+#### Author und Hinweise
+Dieser Artikel wurde von [Bastian Nolte](https://bastian-nolte.name) geschrieben.<br/>
+Der Code ist in einem Coding Dojo der [CSS Versicherung](https://www.css.ch) entstanden.
+
+_Das Dokument enthält einen Affiliate Link auf ein Buch bei Amazon._
