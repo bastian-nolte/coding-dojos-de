@@ -1,4 +1,4 @@
-package ninja.greenlemon.codedojo.fizzbuzz
+package app.codedojo.kata.fizzbuzz
 
 /**
  * Gibt eine Liste von Strings gemäss [Fizzbuzz.fizzbuzz] auf der Konsole aus.

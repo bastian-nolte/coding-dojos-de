@@ -1,5 +1,6 @@
-package ninja.greenlemon.codedojo.fizzbuzz
+package app.codedojo.codedojo.kata.fizzbuzz
 
+import app.codedojo.kata.fizzbuzz.Fizzbuzz
 import org.junit.jupiter.api.Assertions.assertEquals
 import org.junit.jupiter.api.DisplayName
 import org.junit.jupiter.api.Test
